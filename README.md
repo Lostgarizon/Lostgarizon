@@ -53,8 +53,8 @@ I am a 22-year-old **Backend Developer** currently in my 4th year at **Japan Dig
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lostgarizon&show_icons=true&theme=tokyonight" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lostgarizon&layout=compact&theme=tokyonight" alt="Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lostgarizon&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lostgarizon&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Languages" height="180" />
 </p>
 
 ---
