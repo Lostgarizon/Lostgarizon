@@ -2,7 +2,7 @@
 # おはよう, My name is Mukhammad Ali 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Lostgarizon&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
 </p>
 
 ---
@@ -32,14 +32,6 @@ I am a **Backend Developer** and a 4th-year student at **Japan Digital Universit
 
 ### 🚀 Key Projects
 * **Corelia** — A P2P platform built on the TON Blockchain for secure transactions.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Languages" height="180" />
-</p>
 
 ---
 
